@@ -1,4 +1,4 @@
-BigDataIsBeatiful
+BigData
 =================
 
-Support visuel de l'intervention au colloque Is "Big Data" Beautiful ?
+Support visuel de la présentation du domaine lors de la soirée Beyond Lab du 29/10
