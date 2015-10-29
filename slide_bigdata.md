@@ -2,7 +2,7 @@
 class: center, middle
 
 # Grosses données et extraction de connaissances
-### Sébastien NEDJAR (MCF AMU - LIF)
+.center[![LAB](logo.jpg)]
 ---
 
 ##Informatique décisionnelle (BI) ?
